@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @North-win
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 哈喽各位，这是一个在校学生的主页
 
-<!---
-North-win/North-win is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 励志可以成为一个紧跟时代的AI相关开发
+- 
+- 📫 欢迎各位多多指教
+
